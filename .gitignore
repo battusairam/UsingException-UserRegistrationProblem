@@ -9,7 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-# 
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -126,8 +126,7 @@ $tf/
 
 # Guidance Automation Toolkit
 *.gpState
-*.vs
-*.git
+
 # ReSharper is a .NET coding add-in
 _ReSharper*/
 *.[Rr]e[Ss]harper
