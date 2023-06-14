@@ -9,8 +9,6 @@ namespace UsingException_UserRegistrationProblem
 {
     public class Persons
     {
-    
-
         public static string GetValidEmail()
         {
             Console.Write("Enter Email: ");
