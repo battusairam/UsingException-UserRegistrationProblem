@@ -24,7 +24,7 @@
                 Console.WriteLine("User Registration Failed: " + ex.Message);
             }
         }
-/*
+
         private static string GetValidPassword()
         {
             throw new NotImplementedException();
@@ -43,7 +43,7 @@
         private static string GetValidLastName()
         {
             throw new NotImplementedException();
-        } */
+        } 
 
         private static string GetValidFirstName()
         {
